@@ -1,4 +1,4 @@
-## CSS Snipets
+## CSS Snippets
 A collection of all my personal projects featuring snippets writting in CSS and HTML.
 
 1. Blog Site: custom blog site
