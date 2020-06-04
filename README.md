@@ -10,7 +10,7 @@ A collection of complete Landing webpages created using Bootstrap
 #### Bootstrap v4.5
 1. Pattern Image Collection: Pattern collection webpage
 2. Museum of Candy: Fancy webpage for a Candy Museum
-<br>
+
 ## HTML Snippets
 A collections of all my personal projects featuring snippets writting in HTML
 
@@ -18,7 +18,7 @@ A collections of all my personal projects featuring snippets writting in HTML
 2. Attributes and List
 3. Pokemon: Tables, Hyperlinks, Images
 4. Registration Form: Forms in HTML
-<br>
+
 ## CSS Snipets
 A collection of all my personal projects featuring snippets writting in CSS and HTML.
 
