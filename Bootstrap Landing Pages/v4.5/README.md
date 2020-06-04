@@ -1,4 +1,4 @@
-# Bootstrap Landing Pages
+## Bootstrap Landing Pages
 A collection of complete Landing webpages created using Bootstrap
 
 ### Bootstrap v4.5
