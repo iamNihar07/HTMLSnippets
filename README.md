@@ -1,4 +1,5 @@
 # Web Development Snippets (HTML, CSS and Bootstrap)
+A repo of all my personal projects featuring landing pages and snippets writting in HTML, CSS and Bootstrap framework
 
 ## Bootstrap Landing Pages
 A collection of complete Landing webpages created using Bootstrap
